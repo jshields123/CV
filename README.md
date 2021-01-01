@@ -53,19 +53,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Bsc Hons Criminology and Psychology
+  Sheffield Hallam University
+- Grade 2:1
 
 #### Any other qualifications
+
+- PMI Project Management for Beginners 2020
 
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
 - A keen runner always the competitor, follow me on strava eating up the miles.
-- A nightmare to watch films with as I have seen everything.
+- Coffee enthusiast, always trying to perfect my flat white art.
+- A nightmare to choose a film to watch with, I have seen everything.
 - Adventures to somewhere new, be that a nature walk or cliff diving into the ocean.
 - Yoga and meditation to zen the mind and keep myself sane!
+- Big sports fan from football, rugby league to MMA.
 
 Any cool stuff that makes you a super part of a software development team
