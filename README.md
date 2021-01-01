@@ -1,4 +1,6 @@
-## Your Name
+## Jack Shields
+
+A full stack Ruby developer in training with a thirst for a challenge, and getting them by the truckload at Makers Academy. This is where I aim to switch sides and transform from a tech recruiter into a fully fledged full stack developer. The pace of change in tech reflects my own drive to develop and learn about the world around us. I am keen to combine this drive, with my first class communication skills and a sound technical ability.
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -60,5 +62,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
+
+- A keen runner always the competitor, follow me on strava eating up the miles.
+- A nightmare to watch films with as I have seen everything.
+- Adventures to somewhere new, be that a nature walk or cliff diving into the ocean.
+- Yoga and meditation to zen the mind and keep myself sane!
 
 Any cool stuff that makes you a super part of a software development team
