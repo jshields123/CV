@@ -1,22 +1,34 @@
-## Jack Shields
+## Jack Shields CV
 
-A Junior full stack Developer in Ruby and Javascript with a thirst for a challenge, and recently got them by the truckload at Makers Academy where I graduated their bootcamp. This is where I switched sides and transform from a tech recruiter into a fully fledged full stack developer. The pace of change in tech reflects my own drive to develop and learn about the world around us. I am keen to combine this drive, with my first class communication skills and a continuously improving technical knowledge.
+A Junior full stack Developer in Ruby and Javascript with a thirst for a challenge, and recently got them by the truckload at Makers Academy where I graduated their bootcamp. This is where I switched sides and transformed from a tech recruiter into a fully fledged full stack developer. The pace of change in tech reflects my own drive to develop and learn about the world around us. I am keen to combine this drive, with my first class communication skills and a continuously improving technical knowledge.
 
 
 ## Projects
 
-| Name                         | Description                      | Tech/tools                   | Link to Repo
-| ---------------------------- | -----------------                | -----------------            | ---------------
-| Scrummy                      | An mobile app to located markets | React Native, JavaScript     | https://github.com/jshields123/MarketFinder
-| PipeFace                     | A facebook styled web app.       | Ruby, HTML, CSS, RSpec, RoRs | https://github.com/jshields123/acebook--Pipeface-
-| Xtreme BnB                   | A AirBnB styled web app.         | Ruby, HTML, CSS, RSpec, RoRs | https://github.com/jshields123/Xtreme_Prestige_Worldwide_BnB
+| Name                         | Description                      | Tech/tools                    | Link to Repo
+| ---------------------------- | -----------------                | -----------------             | ---------------
+| Scrummy                      | A mobile app to located markets  | React Native, JavaScript, MERN| https://github.com/jshields123/MarketFinder
+| PipeFace                     | A facebook styled web app.       | Ruby, HTML, CSS, RSpec, RoRs  | https://github.com/jshields123/acebook--Pipeface-
+| Xtreme BnB                   | A AirBnB styled web app.         | Ruby, HTML, CSS, RSpec, RoRs  | https://github.com/jshields123/Xtreme_Prestige_Worldwide_BnB
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Makers Academy - London (Remote) - 01/01/2021 to 26/3/2021
+Makers Student
 
-- Any experience relevent to software development
+
+Hays Recruitment - Sydney - 26/9/2016 to 1/09/2020  
+Senior Recruitment Consultant
+
+-  I recruited in both the IT Projects and Business Change and the Logistics and Supply Chain team covering both permanent and contract positions within the private sector. I started out with no prior recruitment experience and developed into a valuable senior recruiter across two teams.
+-  This role gave me deep insight into the IT projects industry and fuelled my desire to pursue a career directly in technology. It also gave me an immense work ethic and ability to work well in a team, along with hitting targets solo.
+
+Thomson Reuters Legal - Sydney 11/08/2015 to 23/9/2016
+Customer & Tech Care Consultant
+
+- This role required me to develop my knowledge of products such as SAP and salesforce along with a range of Thomson Reuters specific platforms. I then used this knowledge to provide assistance to customers through a variety of different avenues
+- This role was the first time I had worked directly within the IT industry. This appealed to my hunger for a challenge and need to constantly challenge myself. To go from inexperienced in this field, to competent after a sharp learning curve feels very rewarding.
+
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -24,6 +36,12 @@ _Your job title_
 - Any experience relevent to software development
 
 ## Skills
+
+Attention to detail
+Problem solving
+Teamwork
+Communication
+Dedication and work ethic
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
