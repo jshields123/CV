@@ -22,7 +22,7 @@ Senior Recruitment Consultant
 -  I recruited in both the IT Projects and Business Change and the Logistics and Supply Chain team covering both permanent and contract positions within the private sector. I started out with no prior recruitment experience and developed into a valuable senior recruiter across two teams.
 -  This role gave me deep insight into the IT projects industry and fuelled my desire to pursue a career directly in technology. It also gave me an immense work ethic and ability to work well in a team, along with hitting targets solo.
 
-Thomson Reuters Legal - Sydney - 11/08/2015 to 23/9/2016  
+Thomson Reuters Legal - Sydney - 08/2015 to 09/2016  
 Customer & Tech Care Consultant
 
 - This role required me to develop my knowledge of products such as SAP and salesforce along with a range of Thomson Reuters specific platforms. I then used this knowledge to provide assistance to customers through a variety of different avenues
@@ -59,7 +59,7 @@ https://github.com/jshields123/CV/blob/master/Mernie%20Sanders%20demo%20day.mp4
 
 ## Education
 
-#### Makers Academy (01/01/2021 to 26/3/2021)
+#### Makers Academy (01/2021 to 03/2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
