@@ -25,7 +25,7 @@ Senior Recruitment Consultant
 Thomson Reuters Legal - Sydney - 08/2015 to 09/2016  
 Customer & Tech Care Consultant
 
-- This role required me to develop my knowledge of products such as SAP and salesforce along with a range of Thomson Reuters specific platforms. I then used this knowledge to provide assistance to customers through a variety of different avenues
+- This role required me to develop my knowledge of products such as SAP and Salesforce along with a range of Thomson Reuters specific platforms. I then used this knowledge to provide assistance to customers through a variety of different avenues.
 - It was my first role directly within the IT industry. This appealed to my hunger for a challenge and need to constantly challenge myself. To go from inexperienced in this field, to competent after a sharp learning curve feels very rewarding.
 
 Various Sales and Customer Service roles - UK - 2012 to 2015
@@ -80,10 +80,10 @@ https://github.com/jshields123/CV/blob/master/Mernie%20Sanders%20demo%20day.mp4
 
 ## Hobbies
 
-- A keen runner, be it a marathon or 100ms I am always the competitor, follow me on Strava eating up the miles.
+- A keen runner, be it a marathon or 100m I am always the competitor, follow me on Strava.
 - Coffee enthusiast, always trying to perfect my flat white art.
 - Always here to recommend a film to watch, I have seen everything.
-- Exploring to somewhere new, be that a nature walk or a swim into the ocean.
+- Exploring to somewhere new, be that a nature walk or a swim in the ocean.
 - Yoga and meditation to zen the mind and keep myself sane!
 - Big sports fan from football, rugby league to MMA.
 
