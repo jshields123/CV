@@ -9,20 +9,20 @@ A Junior full stack Developer in Ruby and JavaScript with a thirst for a challen
 | ---------------------------- | -----------------                | -----------------             | ---------------
 | Scrummy                      | A mobile app to locate markets   | React Native, JavaScript, MERN| https://github.com/jshields123/MarketFinder
 | PipeFace                     | A facebook styled web app.       | Ruby, HTML, CSS, RSpec, RoRs  | https://github.com/jshields123/acebook--Pipeface-
-| Xtreme BnB                   | A AirBnB styled web app.         | Ruby, HTML, CSS, RSpec, RoRs  | https://github.com/jshields123/Xtreme_Prestige_Worldwide_BnB
+| Xtreme BnB                   | An AirBnB styled web app.        | Ruby, HTML, CSS, RSpec, RoRs  | https://github.com/jshields123/Xtreme_Prestige_Worldwide_BnB
 
 ## Experience
 
-Makers Academy - London (Remote) - 01/01/2021 to 26/3/2021
+Makers Academy - London (Remote) - 01/2021 to 03/2021  
 Makers Student
 
-Hays Recruitment - Sydney - 26/9/2016 to 1/09/2020  
+Hays Recruitment - Sydney - 09/2016 to 09/2020  
 Senior Recruitment Consultant
 
 -  I recruited in both the IT Projects and Business Change and the Logistics and Supply Chain team covering both permanent and contract positions within the private sector. I started out with no prior recruitment experience and developed into a valuable senior recruiter across two teams.
 -  This role gave me deep insight into the IT projects industry and fuelled my desire to pursue a career directly in technology. It also gave me an immense work ethic and ability to work well in a team, along with hitting targets solo.
 
-Thomson Reuters Legal - Sydney - 11/08/2015 to 23/9/2016
+Thomson Reuters Legal - Sydney - 11/08/2015 to 23/9/2016  
 Customer & Tech Care Consultant
 
 - This role required me to develop my knowledge of products such as SAP and salesforce along with a range of Thomson Reuters specific platforms. I then used this knowledge to provide assistance to customers through a variety of different avenues
@@ -92,10 +92,10 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-- A keen runner always the competitor, follow me on strava eating up the miles.
+- A keen runner, always the competitor, follow me on strava eating up the miles.
 - Coffee enthusiast, always trying to perfect my flat white art.
 - A nightmare to choose a film to watch with, I have seen everything.
-- Exploring to somewhere new, be that a nature walk or cliff diving into the ocean.
+- Exploring to somewhere new, be that a nature walk or a swim into the ocean.
 - Yoga and meditation to zen the mind and keep myself sane!
 - Big sports fan from football, rugby league to MMA.
 
