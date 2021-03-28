@@ -46,7 +46,7 @@ Consider skills relevent to software development. Then consider your best skills
 #### Problem Solving
 
 In a recent process review with an experienced web developer I was given a scenario of talking to a client to gather information of their needs and problem, and TDD a answer to this issue within a tight 45 mins timeframe. To put myself in the best position to best meet the clients needs I took in as much information as possible, converted that into user stories and requirements and then tests. I then used my failing tests to develop a code base that was lean and that solved the main issues that the client needed solving. Not only was solving the problem the client had in real time, truly satisfying, it also came with the positive reviewer feedback which is attached in the link below.
-file:///Users/jackshields/Downloads/2021-03-11-Yellow%20Gengar%2025-feedback.pdf
+https://github.com/jshields123/CV/blob/master/2021-03-11-Yellow%20Gengar%2025-feedback.pdf
 
 - Experience
 - Achievements
