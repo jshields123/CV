@@ -1,6 +1,6 @@
 ## Jack Shields CV
 
-A Junior full stack Developer in Ruby and Javascript with a thirst for a challenge, and recently got them by the truckload at Makers Academy where I graduated their bootcamp. This is where I switched sides and transformed from a tech recruiter into a fully fledged full stack developer. The pace of change in tech reflects my own drive to develop and learn about the world around us. I am keen to combine this drive, with my first class communication skills and a continuously improving technical knowledge.
+A Junior full stack Developer in Ruby and JavaScript with a thirst for a challenge, and recently got them by the truckload at Makers Academy where I graduated their bootcamp. This is where I switched sides and transformed from a tech recruiter into a fully fledged full stack developer. The pace of change in tech reflects my own drive to develop and learn about the world around us. I am keen to combine this drive, with my first class communication skills and a continuously improving technical knowledge.
 
 
 ## Projects
