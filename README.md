@@ -41,7 +41,6 @@ Various Sales and Customer Service roles - UK - 2012 to 2015
 - Sales
 - Account management
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Problem Solving
 
@@ -50,9 +49,6 @@ In a recent process review with an experienced web developer I was given a scena
 Not only was solving the problem the client had in real time truly satisfying, it also came with the positive reviewer feedback which is attached in the link below.
 https://github.com/jshields123/CV/blob/master/2021-03-11-Yellow%20Gengar%2025-feedback.pdf
 
-- Experience
-- Achievements
-- Evidence
 
 #### Communication
 During the process of creating a market finder app I demonstrated my ability to effectively communicate through pair programming daily, leading the team in two day sprints and even leading daily dance classes to keep energy and morale up. This project ended with a demo presentation in front of 75+ people. I presented how we worked well in a team and the process we took. I clearly put across the information required along with some humour to keep the audience engaged.
@@ -60,13 +56,6 @@ During the process of creating a market finder app I demonstrated my ability to 
 The demo was recorded and is a link is provided below.
 https://github.com/jshields123/CV/blob/master/Mernie%20Sanders%20demo%20day.mp4
 
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
