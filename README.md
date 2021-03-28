@@ -33,13 +33,13 @@ Various Sales and Customer Service roles - UK - 2012 to 2015
 
 ## Skills
 
-Attention to detail
-Problem solving
-Teamwork
-Communication
-Dedication and work ethic
-Sales
-Account management
+- Attention to detail
+- Problem solving
+- Teamwork
+- Communication
+- Dedication and work ethic
+- Sales
+- Account management
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
