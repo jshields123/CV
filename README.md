@@ -7,7 +7,7 @@ A Junior full stack Developer in Ruby and Javascript with a thirst for a challen
 
 | Name                         | Description                      | Tech/tools                    | Link to Repo
 | ---------------------------- | -----------------                | -----------------             | ---------------
-| Scrummy                      | A mobile app to located markets  | React Native, JavaScript, MERN| https://github.com/jshields123/MarketFinder
+| Scrummy                      | A mobile app to locate markets  | React Native, JavaScript, MERN| https://github.com/jshields123/MarketFinder
 | PipeFace                     | A facebook styled web app.       | Ruby, HTML, CSS, RSpec, RoRs  | https://github.com/jshields123/acebook--Pipeface-
 | Xtreme BnB                   | A AirBnB styled web app.         | Ruby, HTML, CSS, RSpec, RoRs  | https://github.com/jshields123/Xtreme_Prestige_Worldwide_BnB
 
@@ -23,7 +23,6 @@ Senior Recruitment Consultant
 -  This role gave me deep insight into the IT projects industry and fuelled my desire to pursue a career directly in technology. It also gave me an immense work ethic and ability to work well in a team, along with hitting targets solo.
 
 Thomson Reuters Legal - Sydney - 11/08/2015 to 23/9/2016
-
 Customer & Tech Care Consultant
 
 - This role required me to develop my knowledge of products such as SAP and salesforce along with a range of Thomson Reuters specific platforms. I then used this knowledge to provide assistance to customers through a variety of different avenues
