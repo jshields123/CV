@@ -1,6 +1,6 @@
 ## Jack Shields CV
 
-A Junior full stack Developer in Ruby and JavaScript with a thirst for a challenge, and recently got them by the truckload at Makers Academy where I graduated their bootcamp. This is where I switched sides and transformed from a tech recruiter into a fully fledged full stack developer. The pace of change in tech reflects my own drive to develop and learn about the world around us. I am keen to combine this drive, with my first class communication skills and a continuously improving technical knowledge.
+A Junior Full Stack Developer in Ruby and JavaScript with a thirst for a challenge, and recently got them by the truckload at Makers Academy where I graduated their bootcamp. This is where I switched sides and transformed from a tech recruiter into a fully fledged full stack developer. The pace of change in tech reflects my own drive to develop and learn about the world around us. I am keen to combine this drive, with my first class communication skills and a continuously improving technical knowledge.
 
 
 ## Projects
@@ -88,13 +88,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - PMI Project Management for Beginners 2020
 
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-- A keen runner, always the competitor, follow me on strava eating up the miles.
+- A keen runner, be it a marathon or 100ms I am always the competitor, follow me on Strava eating up the miles.
 - Coffee enthusiast, always trying to perfect my flat white art.
-- A nightmare to choose a film to watch with, I have seen everything.
+- Always here to recommend a film to watch, I have seen everything.
 - Exploring to somewhere new, be that a nature walk or a swim into the ocean.
 - Yoga and meditation to zen the mind and keep myself sane!
 - Big sports fan from football, rugby league to MMA.
