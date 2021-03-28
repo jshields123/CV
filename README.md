@@ -16,24 +16,20 @@ A Junior full stack Developer in Ruby and Javascript with a thirst for a challen
 Makers Academy - London (Remote) - 01/01/2021 to 26/3/2021
 Makers Student
 
-
 Hays Recruitment - Sydney - 26/9/2016 to 1/09/2020  
 Senior Recruitment Consultant
 
 -  I recruited in both the IT Projects and Business Change and the Logistics and Supply Chain team covering both permanent and contract positions within the private sector. I started out with no prior recruitment experience and developed into a valuable senior recruiter across two teams.
 -  This role gave me deep insight into the IT projects industry and fuelled my desire to pursue a career directly in technology. It also gave me an immense work ethic and ability to work well in a team, along with hitting targets solo.
 
-Thomson Reuters Legal - Sydney 11/08/2015 to 23/9/2016
+Thomson Reuters Legal - Sydney - 11/08/2015 to 23/9/2016
 Customer & Tech Care Consultant
 
 - This role required me to develop my knowledge of products such as SAP and salesforce along with a range of Thomson Reuters specific platforms. I then used this knowledge to provide assistance to customers through a variety of different avenues
-- This role was the first time I had worked directly within the IT industry. This appealed to my hunger for a challenge and need to constantly challenge myself. To go from inexperienced in this field, to competent after a sharp learning curve feels very rewarding.
+- It was my first role directly within the IT industry. This appealed to my hunger for a challenge and need to constantly challenge myself. To go from inexperienced in this field, to competent after a sharp learning curve feels very rewarding.
 
+Various Sales and Customer Service roles - UK - 2012 to 2015
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
@@ -42,10 +38,12 @@ Problem solving
 Teamwork
 Communication
 Dedication and work ethic
+Sales
+Account management
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Attention to detail
 
 - Experience
 - Achievements
@@ -62,12 +60,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (01/01/2021 to 26/3/2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Node.js React Native
+- RSpec, Jasmine, Jest
+- MERN stack
 
 #### University 
 
@@ -75,7 +74,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
   Sheffield Hallam University
 - Grade 2:1
 
-#### Any other qualifications
+#### Other qualifications
 
 - PMI Project Management for Beginners 2020
 
@@ -90,4 +89,3 @@ That in some arguable way make you a better software developer or well-rounded p
 - Yoga and meditation to zen the mind and keep myself sane!
 - Big sports fan from football, rugby league to MMA.
 
-Any cool stuff that makes you a super part of a software development team
