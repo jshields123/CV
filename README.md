@@ -23,6 +23,7 @@ Senior Recruitment Consultant
 -  This role gave me deep insight into the IT projects industry and fuelled my desire to pursue a career directly in technology. It also gave me an immense work ethic and ability to work well in a team, along with hitting targets solo.
 
 Thomson Reuters Legal - Sydney - 11/08/2015 to 23/9/2016
+
 Customer & Tech Care Consultant
 
 - This role required me to develop my knowledge of products such as SAP and salesforce along with a range of Thomson Reuters specific platforms. I then used this knowledge to provide assistance to customers through a variety of different avenues
@@ -64,7 +65,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, Node.js React Native
+- Ruby, Rails, JavaScript
 - RSpec, Jasmine, Jest
 - MERN stack
 
