@@ -63,7 +63,7 @@ https://github.com/jshields123/CV/blob/master/Mernie%20Sanders%20demo%20day.mp4
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, HTML, CSS
 - RSpec, Jasmine, Jest
 - MERN stack
 
