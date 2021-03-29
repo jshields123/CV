@@ -54,7 +54,7 @@ https://github.com/jshields123/CV/blob/master/2021-03-11-Yellow%20Gengar%2025-fe
 During the process of creating a market finder app I demonstrated my ability to effectively communicate through pair programming daily, leading the team in two day sprints and even leading daily dance classes to keep energy and morale up. This project ended with a demo presentation in front of 75+ people. I presented how we worked well in a team and the process we took. I clearly put across the information required along with some humour to keep the audience engaged.
 
 The demo was recorded and is a link is provided below.
-https://github.com/jshields123/CV/blob/master/Mernie%20Sanders%20demo%20day.mp4
+https://youtu.be/ZS8sKxE3Hqk
 
 
 ## Education
