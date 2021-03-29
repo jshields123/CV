@@ -66,7 +66,7 @@ https://youtu.be/ZS8sKxE3Hqk
 - Ruby, Rails, JavaScript, HTML, CSS, SQL
 - RSpec, Jasmine, Jest
 - MERN stack
-- CI/CD (Travis CI, Heroku)
+- CI/CD (CircleCI, Heroku)
 
 #### University 
 
