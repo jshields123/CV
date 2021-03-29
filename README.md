@@ -63,9 +63,10 @@ https://youtu.be/ZS8sKxE3Hqk
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, HTML, CSS
+- Ruby, Rails, JavaScript, HTML, CSS, SQL
 - RSpec, Jasmine, Jest
 - MERN stack
+- CI/CD (Travis CI, Heroku)
 
 #### University 
 
