@@ -47,14 +47,14 @@ Various Sales and Customer Service roles - UK - 2012 to 2015
 In a recent process review with an experienced web developer I was given a scenario of talking to a client to gather information of their needs and problem, and provide solution to this issue within a tight 45 mins timeframe. To put myself in the best position to best meet the clients needs, I took in as much information as possible with clear and probing communication skills, converted that into user stories and requirements, then created tests. I then used my failing tests as a base to develop a solution that was lean and that solved the main issues that the client was facing.
 
 Not only was solving the problem the client had in real time truly satisfying, it also came with the positive reviewer feedback which is attached in the link below.
-https://github.com/jshields123/CV/blob/master/2021-03-11-Yellow%20Gengar%2025-feedback.pdf
+[Code Review Feedback](https://github.com/jshields123/CV/blob/master/2021-03-11-Yellow%20Gengar%2025-feedback.pdf)
 
 
 #### Communication
 During the process of creating a market finder app I demonstrated my ability to effectively communicate through pair programming daily, leading the team in two day sprints and even leading daily dance classes to keep energy and morale up. This project ended with a demo presentation in front of 75+ people. I presented how we worked well in a team and the process we took. I clearly put across the information required along with some humour to keep the audience engaged.
 
 The demo was recorded and is a link is provided below.
-https://youtu.be/ZS8sKxE3Hqk
+[Demo Day Video](https://youtu.be/ZS8sKxE3Hqk)
 
 
 ## Education
