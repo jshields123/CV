@@ -7,9 +7,9 @@ A Junior Full Stack Developer in Ruby and JavaScript with a thirst for a challen
 
 | Name                         | Description                      | Tech/tools                    | Link to Repo
 | ---------------------------- | -----------------                | -----------------             | ---------------
-| Scrummy                      | A mobile app to locate markets   | React Native, JavaScript, MERN| [Scrummy] (https://github.com/jshields123/MarketFinder)
-| PipeFace                     | A facebook styled web app.       | Ruby, HTML, CSS, RSpec, RoRs  | [Pipeface] (https://github.com/jshields123/acebook--Pipeface-)
-| Xtreme BnB                   | An AirBnB styled web app.        | Ruby, HTML, CSS, RSpec, RoRs  | [Xtreme BnB] (https://github.com/jshields123/Xtreme_Prestige_Worldwide_BnB)
+| Scrummy                      | A mobile app to locate markets   | React Native, JavaScript, MERN| [Scrummy](https://github.com/jshields123/MarketFinder)
+| PipeFace                     | A facebook styled web app.       | Ruby, HTML, CSS, RSpec, RoRs  | [Pipeface](https://github.com/jshields123/acebook--Pipeface-)
+| Xtreme BnB                   | An AirBnB styled web app.        | Ruby, HTML, CSS, RSpec, RoRs  | [Xtreme BnB](https://github.com/jshields123/Xtreme_Prestige_Worldwide_BnB)
 
 ## Experience
 
