@@ -10,6 +10,8 @@ A Full Stack Developer in Ruby and JavaScript with a thirst for a challenge, and
 | Scrummy                      | A mobile app to locate markets   | React Native, JavaScript, MERN| [Scrummy](https://github.com/jshields123/MarketFinder)
 | PipeFace                     | A facebook styled web app.       | Ruby, HTML, CSS, RSpec, RoRs  | [Pipeface](https://github.com/jshields123/acebook--Pipeface-)
 | Xtreme BnB                   | An AirBnB styled web app.        | Ruby, HTML, CSS, RSpec, RoRs  | [Xtreme BnB](https://github.com/jshields123/Xtreme_Prestige_Worldwide_BnB)
+| NotesApp                     | A wrestling themed notes app.    | Javascript, HTML, Pedigree    | [NotesApp](https://github.com/HolsDuckett/Notes-App) 
+                                                                  |(custom built testing framework)
 
 ## Experience
 
