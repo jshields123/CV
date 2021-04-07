@@ -1,6 +1,6 @@
 <h1 align='center'> Jack Shields CV </h1>
 
- [Projects](#Projects) | [Experience](#Experience) | [Skills](#Skills) | [Education](#Education) | [Interests](#Interests)
+ [Projects](#Projects) | [Experience](#Experience) | [Skills](#Skills) | [Education](#Education) | [Interests](#Interests) | [LinkedIn]( 
 
 Whilst living in Australia I found myself starved of a challenge and so decided to dive head first into something new. I found the industry that I was recruiting in (Tech) pulling me in. Fast forward 6 months I am a Full Stack Developer in Ruby and JavaScript with my days full of problem solving challenges. Graduating from Makers Academy bootcamp equipped me with the tools to supercharge my learning style, which allowed me to write clean, testable code, and be able to pick up any new language and technology and run with it. The pace of change in tech reflects my own drive to continuously develop and learn about the world around us. I am keen to contribute my combination of drive, first class communication skills and a constantly improving technical knowledge, to a company that places real value in this skillset.
 
