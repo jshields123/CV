@@ -5,13 +5,13 @@
 Whilst living in Australia I found myself starved of a challenge and so decided to dive head first into something new. I found the industry that I was recruiting in (Tech) pulling me in. Fast forward 6 months I am a Full Stack Developer in Ruby and JavaScript with my days full of problem solving challenges. Graduating from Makers Academy bootcamp equipped me with the tools to supercharge my learning style, which allowed me to write clean, testable code, and be able to pick up any new language and technology and run with it. The pace of change in tech reflects my own drive to continuously develop and learn about the world around us. I am keen to contribute my combination of drive, first class communication skills and a constantly improving technical knowledge, to a company that places real value in this skillset.
 
 
-## Projects
+## Projects 
 
 | Name                         | Description                      | Tech/tools                    | Link to Repo
 | ---------------------------- | -----------------                | -----------------             | ---------------
 | Scrummy                      | A mobile app to locate markets   | React Native, JavaScript, MERN| [Scrummy](https://github.com/jshields123/MarketFinder)
-| PipeFace                     | A facebook styled web app.       | Ruby, HTML, CSS, RSpec, RoRs  | [Pipeface](https://github.com/jshields123/acebook--Pipeface-)
-| Xtreme BnB                   | An AirBnB styled web app.        | Ruby, HTML, CSS, RSpec, RoRs  | [Xtreme BnB](https://github.com/jshields123/Xtreme_Prestige_Worldwide_BnB)
+| PipeFace                     | A facebook styled web app.       | Ruby, HTML, CSS, RSpec, Rails  | [Pipeface](https://github.com/jshields123/acebook--Pipeface-)
+| Xtreme BnB                   | An AirBnB styled web app.        | Ruby, HTML, CSS, RSpec, Rails  | [Xtreme BnB](https://github.com/jshields123/Xtreme_Prestige_Worldwide_BnB)
 | NotesApp                     | A wrestling themed notes app.    | Javascript, HTML, CSS, Pedigree (custom built testing framework)| [NotesApp](https://github.com/HolsDuckett/Notes-App) 
                                                        
 
@@ -69,7 +69,7 @@ The demo was recorded and is a link is provided below.
 - Agile/XP
 - Ruby, Rails, JavaScript, HTML, CSS, SQL
 - RSpec, Jasmine, Jest
-- MongoDB, Express, React, Native, Node
+- MongoDB, Express, React, Native, Node, Bootstrap
 - CI/CD (CircleCI, Heroku)
 
 #### University 
