@@ -1,4 +1,4 @@
-<h1 align='center'> Jack Shields CV </h1>
+## Jack Shields 
 
  [Projects](#Projects) | [Experience](#Experience) | [Skills](#Skills) | [Education](#Education) | [Interests](#Interests) | [LinkedIn](https://www.linkedin.com/in/jackshields123/)
 
@@ -74,7 +74,7 @@ The demo was recorded and is a link is provided below.
 
 #### University 
 
-- Bsc Hons Criminology and Psychology
+- Bsc Hons Criminology and Psychology - 
   Sheffield Hallam University
 - Grade 2:1
 
