@@ -18,7 +18,6 @@ Whilst living in Australia I found myself starved of a challenge and so decided 
 ## Skills
 
 #### Problem Solving
-
 In a recent process review with an experienced web developer I was given a scenario of talking to a client to gather information of their needs and problem, and provide solution to this issue within a tight 45 mins timeframe. To put myself in the best position to best meet the clients needs, I took in as much information as possible with clear and probing communication skills, converted that into user stories and requirements, then created tests. I then used my failing tests as a base to develop a solution that was lean and that solved the main issues that the client was facing.
 
 Not only was solving the problem the client had in real time truly satisfying, it also came with the positive reviewer feedback which is attached in the link below.
@@ -31,12 +30,12 @@ During the process of creating a market finder app I demonstrated my ability to 
 The demo was recorded and is a link is provided below.
 [Demo Day Video](https://youtu.be/ZS8sKxE3Hqk)
 
-### Attention to Detail
+#### Attention to Detail
 Attention to detail has been a skill that I have developed over many years across multiple roles. From being a System Expert as part of my varied role at Hays where I was tasked with educating others on data integrity, how to effectively use in house tools and cleaning our data. The impact on efficiency was regularly measured with stats from across the business. 
 From my time at Makers I realised early on that syntax errors and code layout were essential to both readability and reliability of my code. When writing a testing framework in JS for a NotesApp I realised that providing as detailed information as possible to failing test was essential. It gave me a real appreciation for those developers that write popular testing frameworks and that enables developers like us to write truly clean and stable code. 
 
 
-### Dedication and Work Ethic
+#### Dedication and Work Ethic
 I pride myself on my sheer dedication to a task and or goal. This was the case when as a recruiter I would have to structure my days a week in advance to fit in the sheer quantity of multiple types of work. By no means was it a 9-5 job but that has now become the norm to me. Whilst attending Makers Academy I brought this work ethic to the course. Starting my own coding at 8am each day, wrapping up the pair programming by around 6.30pm and then diving into some extra research to consolidate knowledge before the next day. Nearing the end of the course we decided as a group to work through the weekend in an attempt to make our app something to be proud of. This dedication is born out of an unrelenting willingness to succeed for myself and those around me to also succeed.
 
 ## Experience
