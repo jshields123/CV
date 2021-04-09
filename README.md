@@ -32,12 +32,12 @@ The demo was recorded and is a link is provided below.
 [Demo Day Video](https://youtu.be/ZS8sKxE3Hqk)
 
 ### Attention to Detail
-Attention to detail has been a skill developed over many years across multiple roles. From being a System Expert at my roles at Hays where I was tasked with educating others on data integrity, how to effectively use in house tools and clean data in the database. The impact on efficiency was regularly measured with stats from across the business. 
-From my time at Makers I realised early on that syntax errors and code layout were essential to both readability and reliability of my code. When writing a testing framework in JS for a NotesApp I realised that providing as detailed information as possible to failing test was essential. It gave me a real appreciation for those developers that write popular testing frameworks and the ability it gives myself to TDD to a desired outcome. 
+Attention to detail has been a skill that I have developed over many years across multiple roles. From being a System Expert as part of my varied role at Hays where I was tasked with educating others on data integrity, how to effectively use in house tools and cleaning our data. The impact on efficiency was regularly measured with stats from across the business. 
+From my time at Makers I realised early on that syntax errors and code layout were essential to both readability and reliability of my code. When writing a testing framework in JS for a NotesApp I realised that providing as detailed information as possible to failing test was essential. It gave me a real appreciation for those developers that write popular testing frameworks and that enables developers like us to write truly clean and stable code. 
 
 
 ### Dedication and Work Ethic
-I pride myself on my ability to get a lot of work done in any timeframe given. This was the case when as a recruiter I would have to structure my days a week in advance to fit in the sheer quantity of multiple types of work. By no means was it a 9-5 job but that has become the norm to me. Whilst attending Makers Academy I brought this work ethic to the course. Starting my own coding at 8am each day, wrapping up the pair programming by around 6.30pm and then diving into some extra research to consolidate knowledge before the next day. This dedication is born out of a willingness to succeed for myself and those around me to also succeed.
+I pride myself on my sheer dedication to a task and or goal. This was the case when as a recruiter I would have to structure my days a week in advance to fit in the sheer quantity of multiple types of work. By no means was it a 9-5 job but that has now become the norm to me. Whilst attending Makers Academy I brought this work ethic to the course. Starting my own coding at 8am each day, wrapping up the pair programming by around 6.30pm and then diving into some extra research to consolidate knowledge before the next day. Nearing the end of the course we decided as a group to work through the weekend in an attempt to make our app something to be proud of. This dedication is born out of an unrelenting willingness to succeed for myself and those around me to also succeed.
 
 ## Experience
 
@@ -50,7 +50,7 @@ Senior Recruitment Consultant
 -  I recruited in both the IT Projects and Business Change and the Logistics and Supply Chain team covering both permanent and contract positions within the private sector. I started out with no prior recruitment experience and developed into a valuable senior recruiter across two teams.
 -  This role gave me deep insight into the IT projects industry and fuelled my desire to pursue a career directly in technology. It also gave me an immense work ethic and ability to work well in a team, along with hitting targets solo.
 -  My ability to learn and get up to speed rapidly with each different company and job I recruited for required was excellent and essential once again to my success. 
--  I would be in communication with 100s of candidates and clients per week and develop effective relationships with each of them to meet mutually benficial goals.
+-  I was in communication with 100s of candidates and clients per week and develop effective relationships with each of them to meet mutually beneficial goals.
 
 Thomson Reuters Legal - Sydney - 08/2015 to 09/2016  
 Customer & Tech Care Consultant
@@ -65,6 +65,7 @@ Various Sales and Customer Service roles - UK - 2012 to 2015
 ## Education
 
 #### Makers Academy (01/2021 to 03/2021)
+
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
