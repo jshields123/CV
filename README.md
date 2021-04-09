@@ -17,10 +17,6 @@ Whilst living in Australia I found myself starved of a challenge and so decided 
 
 ## Skills
 
-- Attention to detail       - Teamwork                  - Dedication and work ethic                   - Account management
-- Problem solving           - Communication             - Sales
-
-
 #### Problem Solving
 
 In a recent process review with an experienced web developer I was given a scenario of talking to a client to gather information of their needs and problem, and provide solution to this issue within a tight 45 mins timeframe. To put myself in the best position to best meet the clients needs, I took in as much information as possible with clear and probing communication skills, converted that into user stories and requirements, then created tests. I then used my failing tests as a base to develop a solution that was lean and that solved the main issues that the client was facing.
