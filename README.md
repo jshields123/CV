@@ -36,7 +36,9 @@ From my time at Makers I realised early on that syntax errors and code layout we
 
 
 #### Dedication and Work Ethic
-I pride myself on my sheer dedication to a task and or goal. This was the case when as a recruiter I would have to structure my days a week in advance to fit in the sheer quantity of multiple types of work. By no means was it a 9-5 job but that has now become the norm to me. Whilst attending Makers Academy I brought this work ethic to the course. Starting my own coding at 8am each day, wrapping up the pair programming by around 6.30pm and then diving into some extra research to consolidate knowledge before the next day. Nearing the end of the course we decided as a group to work through the weekend in an attempt to make our app something to be proud of. This dedication is born out of an unrelenting willingness to succeed for myself and those around me to also succeed.
+I pride myself on determination to a complete a task or goal. This was the case as a recruiter, I would structure my week in advance to fit in the sheer quantity of tasks. By no means was it a 9-5 job, that has now become the norm to me. My resilience has been battle-worn in previous roles in sales and recruitment, and this mental toughness is an asset working in software engineering; in particular error handling.
+
+Whilst attending Makers Academy I brought this work ethic with me. The course requires a growth mindset for self-led learning and focuses on equipping yourself with the tools to learn anything programming related, autonomously. This coupled with my resilience, positively contributed, for example towards the end of the course, I pushed the idea to the group of working through the weekend in order to accelerate our app to stand out. This dedication is born out of an unrelenting willingness to succeed. I truly believe this is a trait that adds significant value to a team environment.
 
 ## Experience
 
