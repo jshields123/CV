@@ -12,7 +12,7 @@ Whilst living in Australia I found myself starved of a challenge and so decided 
 | Scrummy                      | A mobile app to locate markets   | React Native, JavaScript, MERN| [Scrummy](https://github.com/jshields123/MarketFinder)
 | PipeFace                     | A facebook styled web app.       | Ruby, HTML, CSS, RSpec, Rails  | [Pipeface](https://github.com/jshields123/acebook--Pipeface-)
 | Xtreme BnB                   | An AirBnB styled web app.        | Ruby, HTML, CSS, RSpec, Rails  | [Xtreme BnB](https://github.com/jshields123/Xtreme_Prestige_Worldwide_BnB)
-| NotesApp                     | A wrestling themed notes app.    | Javascript, HTML, CSS, Pedigree (custom built testing framework)| [NotesApp](https://github.com/HolsDuckett/Notes-App) 
+| NotesApp                     | A wrestling themed notes app.    | Javascript, HTML, CSS, Pedigree (custom built testing framework)| [NotesApp](https://github.com/jshields123/Notes-App) 
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jshields123)](https://github.com/anuraghazra/github-readme-stats)
 
