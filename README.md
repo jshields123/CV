@@ -2,7 +2,9 @@
 
  [Projects](#Projects) | [Experience](#Experience) | [Skills](#Skills) | [Education](#Education) | [Interests](#Interests) | [LinkedIn](https://www.linkedin.com/in/jackshields123/)
 
-Whilst living in Australia I found myself starved of a challenge and so decided to dive head first into something new. Coming from a background in tech recruitment, I was exposed to the IT industry. Fast forward 6 months I am a Full Stack Developer in JavaScript with my days full of problem solving challenges. Graduating from Makers Academy bootcamp equipped me with the tools to supercharge my learning style, which allowed me to write clean, testable code, and be able to pick up any new language and technology and run with it. The pace of change in tech reflects my own drive to continuously develop and learn about the world around us. I am keen to contribute my combination of drive, first class communication skills and a constantly improving technical knowledge, to a company that places real value in this skillset.
+Whilst living in Australia I found myself starved of a challenge and so decided to dive head first into something new. Coming from a background in tech recruitment, I was exposed to the IT industry. Fast forward 6 months I am a Full Stack Developer in JavaScript with my days full of challenging problems to solve. Graduating from Makers Academy bootcamp equipped me with the tools to supercharge my learning style, which allowed me to write clean, testable code, and be able to pick up any new language and technology and run with it.
+
+The pace of change in tech reflects my own drive to continuously develop and learn about the world around us. I am keen to contribute my combination of drive, first class communication skills and a constantly improving technical knowledge, to a company that places real value in this skillset.
 
 
 ## Projects 
@@ -46,6 +48,10 @@ Whilst attending Makers Academy I brought this work ethic with me. The course re
 Makers Academy - London (Remote) - 01/2021 to 03/2021  
 Makers Student
 
+-  Makers Academy is a full stack developer bootcamp that challenges you to push beyond your own perceived limits, to develop skills at a rapid pace. I thoroughly enjoyed the course that involved acquiring skills to learn core principles of developing software (OOP, TDD,MVC, DDD) and applying those to many new languages (JavaScript, Ruby, HTML, CSS, SQL), technologies (React, React Native, Express, MongoDB) and frameworks (Bootstrap, Next.js, Node.js, Rails).
+-  The course allowed me to develop both the self-led learning techniques and also extensive experience with working in agile groups and pair programming. The TDD approach to writing code is engrained in the ethos of the course and so now being a “Maker”, I to wholeheartedly believe in this philosophy. The testing frameworks we used were Rspec, Jest, Jasmine and actually developed our own testing framework.
+-  In the larger projects such as creating a Facebook clone and developing our own Market finder app we worked in two day sprints for a two week period, working through the weekend. This was invaluable experience and resulted in developing and deploying apps via Heroku and CircleCI. 
+
 Hays Recruitment - Sydney - 09/2016 to 09/2020  
 Senior Recruitment Consultant
 
@@ -66,24 +72,8 @@ Various Sales and Customer Service roles - UK - 2012 to 2015
 
 ## Education
 
-#### Makers Academy (01/2021 to 03/2021)
-
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, HTML, CSS, SQL
-- RSpec, Jasmine, Jest
-- MongoDB, Express, React, Native, Node, Bootstrap
-- CI/CD (CircleCI, Heroku)
-
-#### University 
-
 - Bsc Hons Criminology and Psychology - 
-  Sheffield Hallam University
-- Grade 2:1
-
-#### Other qualifications
-
+  Sheffield Hallam University - Grade 2:1
 - PMI Project Management for Beginners 2020
 
 
