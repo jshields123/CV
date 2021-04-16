@@ -45,29 +45,29 @@ Whilst attending Makers Academy I brought this work ethic with me. The course re
 
 ## Experience
 
-Makers Academy - London (Remote) - 01/2021 to 03/2021  
-Makers Student
+#### Makers Academy - London (Remote) - 01/2021 to 03/2021  
+#### Makers Student
 
 -  Makers Academy is a full stack developer bootcamp that challenges you to push beyond your own perceived limits, to develop skills at a rapid pace. I thoroughly enjoyed the course that involved acquiring skills to learn core principles of developing software (OOP, TDD,MVC, DDD) and applying those to many new languages (JavaScript, Ruby, HTML, CSS, SQL), technologies (React, React Native, Express, MongoDB) and frameworks (Bootstrap, Next.js, Node.js, Rails).
 -  The course allowed me to develop both the self-led learning techniques and also extensive experience with working in agile groups and pair programming. The TDD approach to writing code is engrained in the ethos of the course and so now being a “Maker”, I to wholeheartedly believe in this philosophy. The testing frameworks we used were Rspec, Jest, Jasmine and actually developed our own testing framework.
 -  In the larger projects such as creating a Facebook clone and developing our own Market finder app we worked in two day sprints for a two week period, working through the weekend. This was invaluable experience and resulted in developing and deploying apps via Heroku and CircleCI. 
 
-Hays Recruitment - Sydney - 09/2016 to 09/2020  
-Senior Recruitment Consultant
+#### Hays Recruitment - Sydney - 09/2016 to 09/2020  
+#### Senior Recruitment Consultant
 
 -  I recruited in both the IT Projects and Business Change and the Logistics and Supply Chain team covering both permanent and contract positions within the private sector. I started out with no prior recruitment experience and developed into a valuable senior recruiter across two teams.
 -  This role gave me deep insight into the IT projects industry and fuelled my desire to pursue a career directly in technology. It also gave me an immense work ethic and ability to work well in a team, along with hitting targets solo.
 -  My ability to learn and get up to speed rapidly with each different company and job I recruited for required was excellent and essential once again to my success. 
 -  I was in communication with 100s of candidates and clients per week and develop effective relationships with each of them to meet mutually beneficial goals.
 
-Thomson Reuters Legal - Sydney - 08/2015 to 09/2016  
-Customer & Tech Care Consultant
+#### Thomson Reuters Legal - Sydney - 08/2015 to 09/2016  
+#### Customer & Tech Care Consultant
 
 - This role required me to develop my knowledge of products such as SAP and Salesforce along with a range of Thomson Reuters specific platforms. I then used this knowledge to provide assistance to customers through a variety of different avenues.
 - My ability to communicate effectively with customers and internal stakeholders again proved integral to the success in this role and is something that I am very proud of.
 - It was my first role directly within the IT industry. This appealed to my hunger for a challenge and need to constantly challenge myself. To go from inexperienced in this field, to competent after a sharp learning curve feels very rewarding.
 
-Various Sales and Customer Service roles - UK - 2012 to 2015
+####Various Sales and Customer Service roles - UK - 2012 to 2015
 
 
 ## Education
