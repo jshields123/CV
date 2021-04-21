@@ -67,7 +67,7 @@ Whilst attending Makers Academy I brought this work ethic with me. The course re
 - My ability to communicate effectively with customers and internal stakeholders again proved integral to the success in this role and is something that I am very proud of.
 - It was my first role directly within the IT industry. This appealed to my hunger for a challenge and need to constantly challenge myself. To go from inexperienced in this field, to competent after a sharp learning curve feels very rewarding.
 
-####Various Sales and Customer Service roles - UK - 2012 to 2015
+#### Various Sales and Customer Service roles - UK - 2012 to 2015
 
 
 ## Education
