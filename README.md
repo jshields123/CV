@@ -4,7 +4,7 @@
 
 Whilst living in Australia I found myself starved of a challenge and so decided to dive head first into something new. Coming from a background in tech recruitment, I was exposed to the IT industry. Fast forward 6 months I am a Full Stack Developer in JavaScript with my days full of challenging problems to solve. Graduating from Makers Academy bootcamp equipped me with the tools to supercharge my learning style, which allowed me to write clean, testable code, and be able to pick up any new language or technology and run with it.
 
-The pace of change in tech reflects my own drive to continuously develop and learn about the world around us. I am keen to contribute my combination of drive, first class communication skills and a constantly improving technical knowledge, to a company that places real value in this skillset.
+The pace of change in tech reflects my own drive to continuously develop and learn about the world around us. I am keen to contribute my combination of drive, first class communication skills and a constantly improving technical knowledge, to a company that places real value in this skill set.
 
 
 ## Projects 
@@ -49,14 +49,14 @@ Whilst attending Makers Academy I brought this work ethic with me. The course re
 #### Makers Student
 
 -  Makers Academy is a full stack developer bootcamp that challenges you to push beyond your own perceived limits, to develop skills at a rapid pace. I thoroughly enjoyed the course that involved acquiring skills to learn core principles of developing software (OOP, TDD,MVC, DDD) and applying those to many new languages (JavaScript, Ruby, HTML, CSS, SQL), technologies (React, React Native, Express, MongoDB) and frameworks (Bootstrap, Next.js, Node.js, Rails).
--  The course allowed me to develop both the self-led learning techniques and also extensive experience with working in agile groups and pair programming. The TDD approach to writing code is engrained in the ethos of the course and so now being a “Maker”, I to wholeheartedly believe in this philosophy. The testing frameworks we used were Rspec, Jest, Jasmine and actually developed our own testing framework.
+-  The course allowed me to develop both the self-led learning techniques and also extensive experience with working in agile groups and pair programming. The TDD approach to writing code is ingrained in the ethos of the course and so now being a “Maker”, I to wholeheartedly believe in this philosophy. The testing frameworks we used were Rspec, Jest, Jasmine and actually developed our own testing framework.
 -  In the larger projects such as creating a Facebook clone and developing our own Market finder app we worked in two day sprints for a two week period, working through the weekend. This was invaluable experience and resulted in developing and deploying apps via Heroku and CircleCI. 
 
 #### Hays Recruitment - Sydney - 09/2016 to 09/2020  
 #### Senior Recruitment Consultant
 
 -  I recruited in both the IT Projects and Business Change and the Logistics and Supply Chain team covering both permanent and contract positions within the private sector. I started out with no prior recruitment experience and developed into a valuable senior recruiter across two teams.
--  This role gave me deep insight into the IT projects industry and fuelled my desire to pursue a career directly in technology. It also gave me an immense work ethic and ability to work well in a team, along with hitting targets solo.
+-  This role gave me deep insight into the IT projects industry and fueled my desire to pursue a career directly in technology. It also gave me an immense work ethic and ability to work well in a team, along with hitting targets solo.
 -  My ability to learn and get up to speed rapidly with each different company and job I recruited for required was excellent and essential once again to my success. 
 -  I was in communication with 100s of candidates and clients per week and develop effective relationships with each of them to meet mutually beneficial goals.
 
